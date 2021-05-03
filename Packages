@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.cuongrepo.blacknoir
+Name: BlackNoir
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A fully black theme
+Author: cuongffm
+Maintainer: cuongffm
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/BlackNoir.deb
+Depiction: https://cuongrepo.github.io/repo
+Size: 1004
+MD5sum: bf61d2933d1c4668404aaca4f31fcf98

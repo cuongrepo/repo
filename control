@@ -1,0 +1,9 @@
+Package: com.cuongrepo.blacknoir
+Name: BlackNoir
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A fully black theme
+Author: cuongffm
+Maintainer: cuongffm
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
